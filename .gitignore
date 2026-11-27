@@ -10,4 +10,6 @@ __pycache__/
 .pytest_cache/
 artifacts/
 recordings/
+erase_selective.csv
+erase_full_reference.csv
 *.mp4
